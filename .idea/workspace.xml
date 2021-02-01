@@ -31,7 +31,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b2841e9-1497-4bd9-871a-96a1cb9fabf5" name="Default Changelist" comment="" />
+    <list default="true" id="1b2841e9-1497-4bd9-871a-96a1cb9fabf5" name="Default Changelist" comment="01.02 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +74,16 @@
       <updated>1611906876625</updated>
       <workItem from="1611906877672" duration="1509000" />
       <workItem from="1612175264792" duration="2351000" />
+      <workItem from="1612179559720" duration="300000" />
     </task>
+    <task id="LOCAL-00001" summary="01.02 commit">
+      <created>1612179778722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612179778722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +112,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01.02 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="01.02 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1612177792369">

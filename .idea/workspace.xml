@@ -25,8 +25,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:25" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:25/01" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:02" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -126,5 +125,13 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="492" y="185" key="SettingsEditor/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1612177660976" />
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1612179936067">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1612179936067" />
+    <state x="791" y="441" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612179647536">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="791" y="441" key="git4idea.remote.GitConfigureRemotesDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1612179647536" />
   </component>
 </project>
